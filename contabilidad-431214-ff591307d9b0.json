@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "contabilidad-431214",
+  "private_key_id": "ff591307d9b0bdc216ea6daeaa995c7fe4a49224",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhY0v2uBAM+268\nR9HCcwaNAFQcCsmvBeQ1sjlbIew1mpcelZwoekL+6HLYSH3r2GLyLosWR3rTSMJG\nyMattEAAWGtuC28aZ00HPuDhwW0Hw0oFhhmT5p9PNrYi/GFWNe9va0Jsn2JrpfzS\nDdt8IW4KqCL76FdcY1hpv2W6WRf1T48N2qsICodHLwAwVH/q2UWqblAWNB71LRVp\nkBmOYQ+D5i89aDlQ4zhRMjeenURyZoCi71GQRkwS2YEJp9vJEVM5fieOr2l1cquv\nMsVFqeZVRp5s3iw1Yug+jExJleIJCo2ZtH03uBiY1OpK4AweRI7sSNgSmLvVneQt\n8nqhKQftAgMBAAECggEAEXAby/pgr4hygFm0Jm2814LrfwHsqcB0cB0aZ+0fd+Q+\nhezAWLdg4JT+cbJmH62tthwYwcAFBjzOXyigiob0HrK4mRqEXZAZexKH1p+e/mdD\nHltKNlG1CK1seRd6tm9U15N+X6YTOM3uWhgdX6S8fVGV51SKEclT6VaYGctT2bRJ\nXtCh+5ZlLZMxvjycRvehig9dDCnq36r6+Gy3+fv6nVqFkldDLm1ZTBaC+oOtaoaN\nzWpID4PxfOxGEOVzU4OK777lA2KFHASZ2Uov5uKsF618gQqs68/OJDi3IkrIiixb\nvFZohuUVFeu1eYS4f4pS87TNUQJD1T7NfJp+AvTngQKBgQD8zuqlXvc8wSVLl6qk\nCi8boc38XBbgrhVQJOFPHTHhSNy6lMp9n4jewCT2IKmP2KamDDnENkkz/y6Cc/AT\nirDyvhXmLXncDK7i0ALDYnjUDzSTI0Z/kOBSKeCpkFdmU2pz99hAgqvoxupQsMM2\nuKCM6xi5i0u/zrwlShIOyXLkQQKBgQDkO8G1oCuc6/RiJxkO6srN7wihTPXvtsEz\no95bB6QhnfYl1BHN4lmht6Jk9WYj6qh8jl/ZjGAmzQWYkKScWJYfveIlWD7xhndn\nIeFptm4jS7ie1muGPz6oJ3WR9g+p++j1hfvMjsweTOp0LcfPjW8sIqyLy1rGla48\nbv9qR7LIrQKBgQCNWpTQynyrN8PGtJLxDdCxPpOSW1tfXXcFTNm+BrDxKnBg0vk1\nrJI3GnCQPksQ5y6nAYb7Mu9TZ4d14aWHB7FQyQAtp5fPdjgDEhO5c8HjsGzRKJQu\nl68VwdygctirmlCXbyk3SNkeWrqBS5SbcDg1Eu7MMBq2sL16jCP0qKbZAQKBgBM5\nNUenBgVhmmPqByJKhGp0B7YOVWira/p9gu0H57stIt5szlMZDZOhc/ws7z13NlnH\nZCtet3qNKjt/c1332C00QSgEFskhGk2FfQb6ZqxyZEp8pPHZwd1H9Y8luowGu8hy\nUJMaM/cZY2YFtR62OvbstLvRlQPE97f/YWQCRfzBAoGBAJRwypLdF98kX47/HA2r\nOu/ovI0DOVAxg0LIAmLcsdnYEYnQdrV3f86OrRd0gRgMD3q+NO94ufYVr0dvWkEi\nSjHbsAhsKhRASQ1NeNWfF7f95VAHTPZAY6IvGJE75rAKHstt8k7Ejl5RcRZ2BnCX\nYmY7OG+DlSBuZ7en7AH7jba0\n-----END PRIVATE KEY-----\n",
+  "client_email": "contabilidad-botito@contabilidad-431214.iam.gserviceaccount.com",
+  "client_id": "105568427137892123456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/contabilidad-botito%40contabilidad-431214.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
