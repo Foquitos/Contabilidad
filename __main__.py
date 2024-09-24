@@ -3,8 +3,7 @@ from Egresos import Egresos
 from Modulos import Marca_temporal_a_fecha
 from Dolar_MEP import Obtener_Mep
 import pandas as pd
-import plotly.express as px
-from ipywidgets import interact, widgets
+
 
 df_egresos_crudo = sheet_a_dataframe('1vL8vY47_K6zX-mh1KAkiOMjpi4Njl4fQqkoknvIu3YU','Egresos')
 df_ingresos_crudo = sheet_a_dataframe('1DSGdjhRruts7vV2nGdDnTgfri9iYICWcm4NL7XPtBqU','Ingresos')

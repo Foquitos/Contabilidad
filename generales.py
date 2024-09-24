@@ -7,7 +7,7 @@ def sheet_a_dataframe(sheet_id,nombre_hoja=None,id_hoja=None):
         raise Exception('No hay hoja seleccionada')
     # Configura las credenciales
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-    creds = ServiceAccountCredentials.from_json_keyfile_name(r"contabilidad-431214-ff591307d9b0.json", scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name(r"contabilidad.json", scope)
     client = gspread.authorize(creds)
 
     # Acceder a la hoja de Google Sheets

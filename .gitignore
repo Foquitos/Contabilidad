@@ -1,0 +1,71 @@
+# Archivos de byte compilados / optimizados / DLL
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Extensiones C
+*.so
+
+# Distribución / empaquetado
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Instaladores PyInstaller
+*.manifest
+*.spec
+
+# Logs y bases de datos
+*.log
+*.sql
+*.sqlite
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+.venv/
+.env/
+
+# Archivos de Spyder project
+.spyderproject
+.spyproject
+
+# Archivos de Rope project
+.ropeproject
+
+# Documentación de mkdocs
+/site
+
+# mypy
+.mypy_cache/
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos de VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos específicos del sistema operativo
+.DS_Store # macOS
+Thumbs.db # Windows
+
+contabilidad.json
