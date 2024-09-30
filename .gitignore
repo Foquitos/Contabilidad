@@ -68,4 +68,7 @@ venv.bak/
 .DS_Store # macOS
 Thumbs.db # Windows
 
+*.pyc
 contabilidad.json
+Tests/
+__pycache__/
